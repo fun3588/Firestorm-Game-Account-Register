@@ -1,0 +1,5 @@
+# Firestorm WoW 自动注册工具 - 账号记录文件示例
+# 格式: 用户名----密码----邮箱----注册时间
+# 运行时程序会自动将成功注册的账号追加写入 accounts.txt
+
+example_user1----your_password----user1@example.com----2026-10-08 00:00:00

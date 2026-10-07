@@ -1,0 +1,11 @@
+{
+    "email_prefix": "user",
+    "email_domain": "@example.com",
+    "username_prefix": "myuser",
+    "username_random_len": 4,
+    "password": "CHANGE_ME_PASSWORD",
+    "start_index": 1,
+    "headless": false,
+    "keep_alive": true,
+    "cf_timeout": 60
+}

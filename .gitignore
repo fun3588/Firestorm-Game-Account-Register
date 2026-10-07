@@ -1,0 +1,16 @@
+# 敏感账号文件（绝对禁止提交）
+accounts.txt
+
+# Python 编译文件与缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# GUI 运行时生成文件与日志
+.gui_ready
+*.log
+gui_crash.log
+
+# 浏览器环境与临时文件
+.chrome_profile/
+*.tmp
