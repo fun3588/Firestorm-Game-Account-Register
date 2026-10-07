@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-DrissionPage-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/g1879/DrissionPage)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/fun3588/Firestorm-Game-Account-Register)
-[![Release](https://img.shields.io/github/v/release/fun3588/Firestorm-Game-Account-Register?style=for-the-badge&color=green)](https://github.com/fun3588/Firestorm-Game-Account-Register/releases)
+[![Release](https://img.shields.io/github/v/release/fun3588/Firestorm-Game-Account-Register?display_name=tag&style=for-the-badge&color=green)](https://github.com/fun3588/Firestorm-Game-Account-Register/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](README.md)
 
 [**中文文档**](#-中文说明) | [**English Docs**](#-english-documentation) | [**下载 Release EXE**](https://github.com/fun3588/Firestorm-Game-Account-Register/releases)
